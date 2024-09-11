@@ -39,7 +39,7 @@ Here are some of the projects I've worked on:
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Qadeer Ahmed](https://www.linkedin.com/in/qadeer-ahmed-b891b62a4/)
-- **Email**: qadeer@example.com
+- **Email**: qadeer.3884@gmail.com
 
 ---
 
