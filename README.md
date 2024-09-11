@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I'm Qadeer Ahmed!
+
+![Banner Image]([./images/banner.png](https://github.com/qadeer884/qadeer884/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true))
+
+I'm a recent graduate in Information Technology from the University of Chakwal (2020-2024). I have a strong interest in Artificial Intelligence (Machine Learning & Deep Learning) and Data Analysis. 
+
 
 <!--
 **qadeer884/qadeer884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
