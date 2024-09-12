@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Qadeer Ahmed!
+# 👋 Hi, I'm Qadeer_Ahmed!
 
 ![Banner Image](https://github.com/qadeer884/qadeer884/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true)
 
