@@ -67,7 +67,7 @@ Here are some of the projects I've worked on:
 - Internship or job opportunities in **AI**, **Machine Learning**, or **Data Analysis** to further my career in these fields.
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Qadeer Ahmed](https://www.linkedin.com/in/qadeer-ahmed-b891b62a4/)
+- **LinkedIn**: [Qadeer Ahmed](https://www.linkedin.com/in/qadeer84)
 - **Email**: qadeer.3884@gmail.com
 
 ---
