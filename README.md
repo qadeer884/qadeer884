@@ -7,7 +7,6 @@ I'm a **recent graduate in Information Technology** from the University of Chakw
 ## 🧑‍💻 About Me
 - 🎓 Graduated with a BS in IT from the University of Chakwal
 - 🤖 Passionate about **AI/ML** and continuously learning new technologies
-- 💼 Actively seeking **internship** or **job opportunities** in AI, ML, or Data Analysis
 - 🚀 Interested in building AI-based applications and solving complex data-driven problems
 
 ## 🛠️ Technologies & Tools
@@ -62,9 +61,6 @@ Here are some of the projects I've worked on:
 ## 🌱 What I'm Learning
 - Improving my skills in **Computer Vision** and **Natural Language Processing**
 - Exploring advanced **Deep Learning architectures** and **Data Science techniques**
-
-## 💼 Currently Seeking
-- Internship or job opportunities in **AI**, **Machine Learning**, or **Data Analysis** to further my career in these fields.
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Qadeer Ahmed](https://www.linkedin.com/in/qadeer84)
