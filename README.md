@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Qadeer_Ahmed!
 
-![Banner Image](https://github.com/qadeer884/qadeer884/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true)
+![Banner Image](https://github.com/qadeer884/qadeer884/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png)
 
 I'm a **recent graduate in Information Technology** from the University of Chakwal (2020-2024) with a CGPA of 3.39. I specialize in **Artificial Intelligence (Machine Learning & Deep Learning)** and **Data Analysis**, having worked on various projects that apply these skills to real-world problems.
 
