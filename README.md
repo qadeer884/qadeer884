@@ -49,7 +49,7 @@ I'm an **AI/ML Developer** with hands-on experience in machine learning, deep le
 
 ### AI/ML Professional Trainee (onsite)
 - **Innovista Rawal** | Rawalpindi, Pakistan (Nov 2024 – June 2025)
-  - Built skills in data science, machine learning, deep learning, NLP, and computer vision while contributing to market-driven AI solutions.
+  - Built skills in data science, machine learning, deep learning, NLP,CV and AWS while contributing to market-driven AI solutions.
 
 ### AI/ML Developer (onsite - Intern)
 - **Gelecek** | Rawalpindi, Pakistan (Dec 2024 – June 2025)
