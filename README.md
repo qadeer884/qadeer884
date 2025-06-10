@@ -69,6 +69,7 @@ During my final year project, I developed **Interview.AI**—an AI-based web app
 ## 🏗️ Projects
 
 Some of my notable projects include:
+- **Job Finder API**: An AI-powered job search system that fetches job listings from multiple platforms, analyzes descriptions using LLMs, and delivers clean, structured job recommendations via a RESTful API.
 - **Interview.AI**: An AI-powered web app for personality assessment.
 - **Object Detection Projects**: YOLO-based fruit detection and CNN for plant classification.
 - **NLP Applications**: Chatbots and text summarization projects using transfer learning and model fine-tuning.
