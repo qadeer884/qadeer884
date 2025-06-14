@@ -8,11 +8,11 @@ I'm an **AI/ML Developer** specializing in NLP, Computer Vision, and Data Analys
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Education**: BS in Information Technology, University of Chakwal (2020–2024), CGPA: 3.39/4.0 :contentReference[oaicite:1]{index=1}
-- 💼 **Experience**: AI/ML Developer roles (Intern/Professional Trainee) with Gelecek, Innovista Rawal, Bits Phile, working onsite on real-world AI solutions. :contentReference[oaicite:2]{index=2}
-- 🔭 **Current Focus**: Building scalable AI applications (APIs, web apps), optimizing deep learning models, implementing RAG chatbots, and integrating CV/NLP modules for dynamic user experiences. :contentReference[oaicite:3]{index=3}
-- 🌱 **Learning**: Advanced Computer Vision (e.g., multimodal analysis, best-shot selectors), cutting-edge NLP (LLMs, RAG, Whisper), MLOps practices, and cloud-native AI deployments (AWS, Railway). :contentReference[oaicite:4]{index=4}
-- 🤝 **Open to**: Collaborations, AI projects, and full-time/contract opportunities where I can leverage my experience in CV, NLP, and end-to-end AI systems. :contentReference[oaicite:5]{index=5}
+- 🎓 **Education**: BS in Information Technology, University of Chakwal (2020–2024), CGPA: 3.39/4.0
+- 💼 **Experience**: AI/ML Developer roles (Intern/Professional Trainee) with Gelecek, Innovista Rawal, Bits Phile, working onsite on real-world AI solutions. 
+- 🔭 **Current Focus**: Building scalable AI applications (APIs, web apps), optimizing deep learning models, implementing RAG chatbots, and integrating CV/NLP modules for dynamic user experiences. 
+- 🌱 **Learning**: Advanced Computer Vision (e.g., multimodal analysis, best-shot selectors), cutting-edge NLP (LLMs, RAG, Whisper), MLOps practices, and cloud-native AI deployments (AWS, Railway). 
+- 🤝 **Open to**: Collaborations, AI projects, and full-time/contract opportunities where I can leverage my experience in CV, NLP, and end-to-end AI systems. 
 
 ---
 
@@ -88,15 +88,15 @@ I'm an **AI/ML Developer** specializing in NLP, Computer Vision, and Data Analys
 - Built a best-shot image selector combining MediaPipe, YOLO, DeepFace for facial pose & quality filtering with real-time camera integration.  
 - Conducted data analysis on user profiles and engagement metrics; created interactive dashboards for insights.  
 - Developed & deployed an AI-powered Job Finder Web App using FastAPI and LLMs to extract insights from job listings.  
-- Implemented text summarization and integrated chatbot/NLP modules into AI products for interactive user experiences. :contentReference[oaicite:6]{index=6}
+- Implemented text summarization and integrated chatbot/NLP modules into AI products for interactive user experiences.
 
 ### AI/ML Professional Trainee (Onsite)
 **Innovista Rawal** | Rawalpindi, Pakistan (Nov 2024 – April 2025)  
-- Gained hands-on exposure to ML, Deep Learning, NLP, Computer Vision (YOLO, MediaPipe), MLOps, and AWS through market-driven AI projects. :contentReference[oaicite:7]{index=7}
+- Gained hands-on exposure to ML, Deep Learning, NLP, Computer Vision (YOLO, MediaPipe), MLOps, and AWS through market-driven AI projects.
 
 ### AI/ML Intern
 **Bits Phile** | Chakwal, Pakistan (Aug 2024 – Oct 2024)  
-- Focused on exploratory data analysis, model development, evaluation, optimization, and data visualization to deliver actionable insights. :contentReference[oaicite:8]{index=8}
+- Focused on exploratory data analysis, model development, evaluation, optimization, and data visualization to deliver actionable insights.
 
 ---
 
@@ -105,25 +105,25 @@ I'm an **AI/ML Developer** specializing in NLP, Computer Vision, and Data Analys
 ### Interview.AI (Capstone Project)  
 - Full-stack AI hiring platform automating end-to-end candidate screening: parsing job details, scheduling interviews, AI-based question generation, response evaluation (personality & technical), and final reports.  
 - Stack: Next.js frontend, FastAPI backend, Python, SQLite, LLM integrations, CV parsing modules, scheduling modules, automated reporting pipelines.  
-- Achieved ~90% reduction in HR workload & shortlisting time by streamlining assessments and report generation. :contentReference[oaicite:9]{index=9}
+- Achieved ~90% reduction in HR workload & shortlisting time by streamlining assessments and report generation. 
 
 ### Conversational RAG Chatbot  
 - Built a Retrieval-Augmented Generation chatbot delivering context-aware responses from custom knowledge sources.  
 - Technologies: LangChain, Ollama/Grok integration, ChromaDB for local vectors, Pinecone for scalable retrieval, FastAPI backend, deployed on Railway.  
-- Improved information retrieval efficiency and minimized hallucinations for enterprise use cases. :contentReference[oaicite:10]{index=10}
+- Improved information retrieval efficiency and minimized hallucinations for enterprise use cases. 
 
 ### Object Detection (YOLOv8-Based)  
 - Real-time object detection application: fine-tuned YOLOv8 on custom datasets (CVAT & Roboflow), Flask API backend for inference.  
-- Delivered accurate, low-latency detection demonstrating applied deep learning on custom visual data. :contentReference[oaicite:11]{index=11}
+- Delivered accurate, low-latency detection demonstrating applied deep learning on custom visual data.
 
 ### Job Finder API & Web App  
-- AI-powered job search: scrapes listings from LinkedIn, Indeed, Google Jobs; uses LLMs to analyze descriptions, extract skills/experience, and provide structured recommendations via RESTful API (FastAPI). :contentReference[oaicite:12]{index=12}
+- AI-powered job search: scrapes listings from LinkedIn, Indeed, Google Jobs; uses LLMs to analyze descriptions, extract skills/experience, and provide structured recommendations via RESTful API (FastAPI). 
 
 ### Additional Projects
 - **Plant Classification**: CNN-based model for plant species identification.  
 - **Fruit Detection**: YOLO-based fruit detection pipeline with real-time inference.  
 - **Text Summarization & Whisper-based Audio Translation**: NLP pipelines leveraging transfer learning & Whisper for audio-to-text translation.  
-- **Custom Chatbot Deployments**: Deployed domain-specific chatbots (e.g., for Gelecek) on Railway. :contentReference[oaicite:13]{index=13}
+- **Custom Chatbot Deployments**: Deployed domain-specific chatbots (e.g., for Gelecek) on Railway. 
 
 ---
 
@@ -138,7 +138,7 @@ I'm an **AI/ML Developer** specializing in NLP, Computer Vision, and Data Analys
 - Advanced multimodal CV techniques (e.g., facial analysis, pose estimation, best-shot selection).  
 - Scaling NLP pipelines and RAG systems for production.  
 - MLOps & CI/CD for AI systems on AWS/Railway.  
-- Optimization of deep learning architectures for efficiency and accuracy. :contentReference[oaicite:14]{index=14}
+- Optimization of deep learning architectures for efficiency and accuracy. 
 
 ---
 
