@@ -29,7 +29,6 @@ I'm an **AI/ML Developer** specializing in NLP, Computer Vision, and Data Analys
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Keras_logo_small_icon.png" alt="Keras" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/8497296?s=200&v=4" alt="LangChain" width="40" height="40"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" alt="FastAPI" width="90" height="20"/>
   <img src="https://img.shields.io/badge/Langraph-333333?logo=data:image/png;base64,iVBORw0KGgo" alt="Langraph" width="90" height="20"/>
