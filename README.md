@@ -9,7 +9,7 @@ I'm an **AI/ML Developer** specializing in NLP, Computer Vision, and Data Analys
 ## 🧑‍💻 About Me
 
 - 🎓 **Education**: BS in Information Technology, University of Chakwal (2020–2024), CGPA: 3.39/4.0
-- 💼 **Experience**: AI/ML Developer roles (Intern/Professional Trainee) with Gelecek, Innovista Rawal, Bits Phile, working onsite on real-world AI solutions. 
+- 💼 Experience: Currently working as an AI Engineer at WeWebWizards, with prior hands-on roles at Gelecek, Innovista Rawal, and Bits Phile. 
 - 🔭 **Current Focus**: Building scalable AI applications (APIs, web apps), optimizing deep learning models, implementing RAG chatbots, and integrating CV/NLP modules for dynamic user experiences. 
 - 🌱 **Learning**: Advanced Computer Vision (e.g., multimodal analysis, best-shot selectors), cutting-edge NLP (LLMs, RAG, Whisper), MLOps practices, and cloud-native AI deployments (AWS, Railway). 
 - 🤝 **Open to**: Collaborations, AI projects, and full-time/contract opportunities where I can leverage my experience in CV, NLP, and end-to-end AI systems. 
@@ -82,7 +82,15 @@ I'm an **AI/ML Developer** specializing in NLP, Computer Vision, and Data Analys
 
 ## 🚀 Experience
 
-### AI/ML Developer (Onsite Intern)
+### AI Engineer (Remote)
+**WeWebWizards** | Remote (Aug 2025 – Present)
+- Supporting development & deployment of AI-powered solutions.
+- Assisting in design, training & testing of AI models.
+- Integrating AI into web & mobile applications.
+- Collaborating with cross-functional teams to deliver high-quality AI features.
+- Continuously learning and applying best practices in AI development.
+
+### AI/ML Developer (Onsite)
 **Gelecek** | Rawalpindi, Pakistan (Dec 2024 – June 2025)  
 - Built a best-shot image selector combining MediaPipe, YOLO, DeepFace for facial pose & quality filtering with real-time camera integration.  
 - Conducted data analysis on user profiles and engagement metrics; created interactive dashboards for insights.  
