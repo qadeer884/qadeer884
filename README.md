@@ -2,7 +2,10 @@
 
 ![Banner Image](https://github.com/qadeer884/qadeer884/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png)
 
-I'm an **AI Engineer** specializing in NLP, Computer Vision, and Data Analysis solutions. I build, fine-tune, and deploy models for structured and unstructured data, with hands-on experience in end-to-end AI workflows, model optimization, and cloud deployments
+I'm an **AI Engineer** specializing in NLP, Computer Vision, and Data Analysis solutions. I build, fine-tune, and deploy models for structured and unstructured data, with hands-on experience in end-to-end AI workflows, model optimization, and cloud deployments.  
+
+💻 **Check out my Portfolio:** [https://qadeer884.vercel.app](https://qadeer884.vercel.app)
+
 
 ---
 
