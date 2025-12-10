@@ -4,7 +4,7 @@
 
 I'm an **AI Engineer** specializing in NLP, Computer Vision, and Data Analysis solutions. I build, fine-tune, and deploy models for structured and unstructured data, with hands-on experience in end-to-end AI workflows, model optimization, and cloud deployments.  
 
-💻 **Check out my Portfolio:** [https://qadeer884.vercel.app](https://qadeerahmed884.vercel.app/)
+💻 **Check out my Portfolio:** [Click here...](https://qadeerahmed884.vercel.app/)
 
 
 ---
@@ -157,7 +157,6 @@ I'm an **AI Engineer** specializing in NLP, Computer Vision, and Data Analysis s
 - **LinkedIn**: [linkedin.com/in/qadeer84](https://www.linkedin.com/in/qadeer84)  
 - **Email**: qadeer.3884@gmail.com  
 - **GitHub**: [github.com/qadeer884](https://github.com/qadeer884)  
-- **Portfolio:** [https://qadeer884.vercel.app](https://qadeerahmed884.vercel.app/)
 
 ---
 
