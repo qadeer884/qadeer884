@@ -157,6 +157,7 @@ I'm an **AI Engineer** specializing in NLP, Computer Vision, and Data Analysis s
 - **LinkedIn**: [linkedin.com/in/qadeer84](https://www.linkedin.com/in/qadeer84)  
 - **Email**: qadeer.3884@gmail.com  
 - **GitHub**: [github.com/qadeer884](https://github.com/qadeer884)  
+- **Portfolio:** [https://qadeer884.vercel.app](https://qadeerahmed884.vercel.app/)
 
 ---
 
