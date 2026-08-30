@@ -1,83 +1,94 @@
 # 👋 Hi, I'm Qadeer Ahmed
 
-![Banner Image](https://github.com/qadeer884/qadeer884/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![Banner Image](https://github.com/qadeer884/qadeer884/blob/main/banner.png)
 
-I'm an **AI Engineer** specializing in NLP, Computer Vision, and Data Analysis solutions. I build, fine-tune, and deploy models for structured and unstructured data, with hands-on experience in end-to-end AI workflows, model optimization, and cloud deployments.  
+I'm an **AI/ML Engineer** with hands-on experience building and deploying **AI-powered applications, automation solutions, and production-ready systems**. My experience spans **NLP, Computer Vision, Generative AI, RAG, LLMs, AI automation, full-stack development, and API integration**.
 
 💻 **Check out my Portfolio:** [Click here...](https://qadeerahmed884.vercel.app/)
-
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Education**: BS in Information Technology, University of Chakwal (2020–2024), CGPA: 3.39/4.0
-- 💼 Experience: Currently working as an AI Engineer at WeWebWizards, with prior hands-on roles at Gelecek, Innovista Rawal, and Bits Phile. 
-- 🔭 **Current Focus**: Building scalable AI applications (APIs, web apps), optimizing deep learning models, implementing RAG chatbots, and integrating CV/NLP modules for dynamic user experiences. 
-- 🌱 **Learning**: Advanced Computer Vision (e.g., multimodal analysis, best-shot selectors), cutting-edge NLP (LLMs, RAG, Whisper), MLOps practices, and cloud-native AI deployments (AWS, Railway). 
-- 🤝 **Open to**: Collaborations, AI projects, and full-time/contract opportunities where I can leverage my experience in CV, NLP, and end-to-end AI systems. 
+- 🎓 **Education:** BS in Information Technology, University of Chakwal (2020–2024), CGPA: 3.39/4.0
+- 💼 **Current Role:** AI Engineer at **WeWebWizards**, working remotely on AI-powered applications, enterprise software, and automation solutions.
+- 🔭 **Current Focus:** AI engineering, Generative AI, RAG systems, AI automation, full-stack applications, API development, and production deployment.
+- 🧠 **Core Interests:** NLP, Large Language Models, Computer Vision, AI-powered workflows, and intelligent business applications.
+- 🚀 **Recent Work:** Enterprise Audit Management System (AMS) and IT Report Automation for MSP environments.
+- 🤝 **Open to:** AI/ML engineering, Generative AI, AI application development, automation, and software engineering opportunities.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Programming & Scripting
+### Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 
-### AI/ML Frameworks & Libraries
+### AI & Machine Learning
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/8497296?s=200&v=4" alt="LangChain" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" alt="FastAPI" width="90" height="20"/>
-  <img src="https://img.shields.io/badge/Langraph-333333?logo=data:image/png;base64,iVBORw0KGgo" alt="Langraph" width="90" height="20"/>
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/LLMs-FF6F61?logo=openai&logoColor=white" alt="LLMs" width="90" height="20"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?logo=openai&logoColor=white" alt="Generative AI" width="110" height="20"/>
 </p>
 
-### NLP & Conversational AI
+### NLP & LLMs
 <p align="left">
-  <img src="https://img.shields.io/badge/LLMs-FF6F61?logo=openai&logoColor=white" alt="LLMs" width="90" height="20"/>
-  <img src="https://img.shields.io/badge/Whisper-000000?logo=whisper&logoColor=white" alt="Whisper" width="90" height="20"/>
   <img src="https://img.shields.io/badge/RAG-004E89?logo=vector-search&logoColor=white" alt="RAG" width="90" height="20"/>
-  <img src="https://img.shields.io/badge/LangChain-2E8B57?logo=langchain&logoColor=white" alt="LangChain" width="90" height="20"/>
+  <img src="https://img.shields.io/badge/LangChain-2E8B57?logo=langchain&logoColor=white" alt="LangChain" width="100" height="20"/>
+  <img src="https://img.shields.io/badge/LangGraph-333333?logo=langchain&logoColor=white" alt="LangGraph" width="100" height="20"/>
+  <img src="https://img.shields.io/badge/Whisper-000000?logo=openai&logoColor=white" alt="Whisper" width="90" height="20"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI" width="90" height="20"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" alt="Ollama" width="90" height="20"/>
   <img src="https://img.shields.io/badge/ChromaDB-4B0082?logo=chromadb&logoColor=white" alt="ChromaDB" width="90" height="20"/>
   <img src="https://img.shields.io/badge/Pinecone-000000?logo=pinecone&logoColor=white" alt="Pinecone" width="90" height="20"/>
 </p>
 
-### Computer Vision & Multimodal
+### Computer Vision
 <p align="left">
   <img src="https://img.shields.io/badge/YOLOv8-EA4335?logo=yolo&logoColor=white" alt="YOLOv8" width="90" height="20"/>
-  <img src="https://img.shields.io/badge/MediaPipe-4285F4?logo=google&logoColor=white" alt="MediaPipe" width="90" height="20"/>
+  <img src="https://img.shields.io/badge/MediaPipe-4285F4?logo=google&logoColor=white" alt="MediaPipe" width="100" height="20"/>
   <img src="https://img.shields.io/badge/DeepFace-FF4081?logo=face-recognition&logoColor=white" alt="DeepFace" width="90" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
 </p>
 
-### Data Processing & Visualization
+### Frontend Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/PowerBI-DB4437?logo=power-bi&logoColor=white" alt="Power BI" width="90" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
 </p>
 
-### Web & API Development
+### Backend & API Development
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" alt="FastAPI" width="90" height="20"/>
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js" width="90" height="20"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" width="90" height="20"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" width="90" height="20"/>
-  <img src="https://img.shields.io/badge/Railway-black?logo=railway&logoColor=white" alt="Railway" width="90" height="20"/>
-  <img src="https://img.shields.io/badge/n8n-000000?logo=n8n&logoColor=white" alt="n8n" width="90" height="20"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" width="90" height="20"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?logo=api&logoColor=white" alt="REST APIs" width="100" height="20"/>
 </p>
 
-### Cloud & DevOps
+### Databases & Cloud
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" width="100" height="20"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" width="90" height="20"/>
-  <img src="https://img.shields.io/badge/Systemctl-blue?logo=linux&logoColor=white" alt="Systemctl" width="90" height="20"/>
-  <img src="https://img.shields.io/badge/Git- F05032?logo=git&logoColor=white" alt="Git" width="90" height="20"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white" alt="DigitalOcean" width="110" height="20"/>
+</p>
+
+### Automation & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-000000?logo=n8n&logoColor=white" alt="n8n" width="90" height="20"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" width="90" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
@@ -86,54 +97,116 @@ I'm an **AI Engineer** specializing in NLP, Computer Vision, and Data Analysis s
 ## 🚀 Experience
 
 ### AI Engineer (Remote)
-**WeWebWizards** | Remote (Aug 2025 – Present)
-- Supporting development & deployment of AI-powered solutions.
-- Assisting in design, training & testing of AI models.
-- Integrating AI into web & mobile applications.
-- Collaborating with cross-functional teams to deliver high-quality AI features.
-- Continuously learning and applying best practices in AI development.
+**WeWebWizards** | Remote  
+**August 2025 – Present**
 
-### AI/ML Developer (Onsite)
-**Gelecek** | Rawalpindi, Pakistan (Dec 2024 – June 2025)  
-- Built a best-shot image selector combining MediaPipe, YOLO, DeepFace for facial pose & quality filtering with real-time camera integration.  
-- Conducted data analysis on user profiles and engagement metrics; created interactive dashboards for insights.  
-- Developed & deployed an AI-powered Job Finder Web App using FastAPI and LLMs to extract insights from job listings.  
-- Implemented text summarization and integrated chatbot/NLP modules into AI products for interactive user experiences.
+- Collaborated on the design and development of full-stack web applications for enterprise clients.
+- Engineered and maintained backend services and APIs supporting automated reporting workflows.
+- Integrated AI/ML capabilities into production systems to support business automation.
+- Improved workflow efficiency through automation and process optimization.
+- Managed the application lifecycle from development through production deployment.
 
-### AI/ML Professional Trainee (Onsite)
-**Innovista Rawal** | Rawalpindi, Pakistan (Nov 2024 – April 2025)  
-- Gained hands-on exposure to ML, Deep Learning, NLP, Computer Vision (YOLO, MediaPipe), MLOps, and AWS through market-driven AI projects.
+### AI/ML Developer
+**Gelecek** | Rawalpindi, Pakistan  
+**December 2024 – August 2025**
+
+- Designed a best-shot image selector using MediaPipe, YOLO, and DeepFace for facial pose and quality filtering with real-time camera integration.
+- Conducted data analysis on user profiles and engagement metrics and designed interactive dashboards for reporting.
+- Engineered and deployed an AI-powered Job Finder Web App using FastAPI and LLMs to extract insights from job listings.
+- Implemented text summarization and chatbot/NLP modules for dynamic user interaction and knowledge extraction.
+
+### AI/ML Professional Trainee
+**Innovista Rawal** | Rawalpindi, Pakistan  
+**November 2024 – April 2025**
+
+- Gained practical experience in Machine Learning, Deep Learning, NLP, Computer Vision, MLOps, and AWS through market-driven AI projects.
+- Applied AI/ML techniques to practical use cases and production-oriented workflows.
 
 ### AI/ML Intern
-**Bits Phile** | Chakwal, Pakistan (Aug 2024 – Oct 2024)  
-- Focused on exploratory data analysis, model development, evaluation, optimization, and data visualization to deliver actionable insights.
+**Bits Phile** | Chakwal, Pakistan  
+**August 2024 – October 2024**
+
+- Focused on exploratory data analysis, model development, evaluation, optimization, and data visualization.
+- Applied data preprocessing and feature engineering to improve model performance.
 
 ---
 
 ## 🔥 Featured Projects
 
-### Interview.AI (Capstone Project)  
-- Full-stack AI hiring platform automating end-to-end candidate screening: parsing job details, scheduling interviews, AI-based question generation, response evaluation (personality & technical), and final reports.  
-- Stack: Next.js frontend, FastAPI backend, Python, SQLite, LLM integrations, CV parsing modules, scheduling modules, automated reporting pipelines.  
-- Achieved ~90% reduction in HR workload & shortlisting time by streamlining assessments and report generation. 
+### Audit Management System (AMS)
+**Enterprise SaaS Platform**
 
-### Conversational RAG Chatbot  
-- Built a Retrieval-Augmented Generation chatbot delivering context-aware responses from custom knowledge sources.  
-- Technologies: LangChain, Ollama/Grok integration, ChromaDB for local vectors, Pinecone for scalable retrieval, FastAPI backend, deployed on Railway.  
-- Improved information retrieval efficiency and minimized hallucinations for enterprise use cases. 
+- Engineered a multi-tenant audit management SaaS platform using React, TypeScript, Node.js, Express.js, and Supabase/PostgreSQL.
+- Implemented role-based audit workflows with dashboards, standards management, client management, and user administration.
+- Incorporated OpenAI GPT for AI-powered summaries and report generation.
+- Implemented PDF and report export functionality for client deliverables.
+- Used Vite, Tailwind CSS, and modern frontend components for application development.
+- Hosted the application on DigitalOcean using Docker and CI/CD for builds and releases.
+- Configured AWS database backups to support disaster recovery.
 
-### Object Detection (YOLOv8-Based)  
-- Real-time object detection application: fine-tuned YOLOv8 on custom datasets (CVAT & Roboflow), Flask API backend for inference.  
-- Delivered accurate, low-latency detection demonstrating applied deep learning on custom visual data.
+### IT Report Automation for MSP
 
-### Job Finder API & Web App  
-- AI-powered job search: scrapes listings from LinkedIn, Indeed, Google Jobs; uses LLMs to analyze descriptions, extract skills/experience, and provide structured recommendations via RESTful API (FastAPI). 
+- Streamlined monthly IT compliance reporting for an MSP across 10+ platforms including Datto, Autotask, SentinelOne, UniFi, and Spin.ai.
+- Created a Streamlit-based pipeline integrating data from 11 APIs and generating professional DOCX reports in under 15 minutes.
+- Leveraged OpenAI GPT for intelligent risk summaries and executive insights.
+- Used python-docx and Word COM automation for professional document formatting.
+- Reduced report generation time by 90%, eliminated manual copy-paste errors, and enabled reporting for 20+ clients without additional headcount.
+
+### Interview.ai – AI Hiring Platform
+
+- Implemented a full-stack AI hiring platform that streamlines end-to-end candidate screening.
+- Integrated CV parsing, interview scheduling, AI question generation, response evaluation, personality and technical assessments, and final reporting.
+- Stack: Next.js, FastAPI, Python, SQLite, and LLM integrations.
+- Reduced HR workload and shortlisting time by approximately 90% through automated assessments and reporting.
+
+### Conversational RAG Chatbot
+
+- Built a Retrieval-Augmented Generation chatbot providing context-aware responses from custom knowledge sources.
+- Used LangChain, Ollama, Grok, ChromaDB, Pinecone, and FastAPI.
+- Deployed the backend on Railway for scalable cloud retrieval.
+- Improved information retrieval and reduced hallucinations for enterprise use cases.
+
+### Object Detection – YOLOv8
+
+- Created a real-time object detection application using YOLOv8 fine-tuned on a custom-labeled dataset.
+- Used CVAT and Roboflow for dataset preparation and annotation.
+- Developed a Flask API backend for model inference.
+- Demonstrated applied deep learning for real-time visual data processing.
+
+### AI Job Finder
+
+- Developed an AI-powered job search application using FastAPI and LLMs.
+- Extracted skills, experience, and relevant information from job listings.
+- Provided structured job insights and recommendations through REST APIs.
 
 ### Additional Projects
-- **Plant Classification**: CNN-based model for plant species identification.  
-- **Fruit Detection**: YOLO-based fruit detection pipeline with real-time inference.  
-- **Text Summarization & Whisper-based Audio Translation**: NLP pipelines leveraging transfer learning & Whisper for audio-to-text translation.  
-- **Custom Chatbot Deployments**: Deployed domain-specific chatbots (e.g., for Gelecek) on Railway. 
+
+- **Plant Classification:** CNN-based image classification for plant species identification.
+- **Fruit Detection:** YOLO-based real-time object detection pipeline.
+- **Whisper Audio Translation:** Audio-to-text translation using Whisper and Streamlit.
+- **Text Summarization:** NLP-based summarization solutions for unstructured text.
+- **Custom Chatbots:** Domain-specific chatbot solutions using LLM and RAG technologies.
+
+---
+
+## 📊 Core Expertise
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
+- Computer Vision
+- AI Automation
+- Agentic AI
+- Full-Stack Development
+- REST API Development
+- Data Analysis
+- Model Deployment
+- Cloud Deployment
+- Enterprise SaaS Development
 
 ---
 
@@ -143,21 +216,24 @@ I'm an **AI Engineer** specializing in NLP, Computer Vision, and Data Analysis s
 
 ---
 
-## 🌱 What I'm Learning
+## 🌱 Currently Learning
 
-- Advanced multimodal CV techniques (e.g., facial analysis, pose estimation, best-shot selection).  
-- Scaling NLP pipelines and RAG systems for production.  
-- MLOps & CI/CD for AI systems on AWS/Railway.  
-- Optimization of deep learning architectures for efficiency and accuracy. 
-
----
-
-## 📫 How to Reach Me
-
-- **LinkedIn**: [linkedin.com/in/qadeer84](https://www.linkedin.com/in/qadeer84)  
-- **Email**: qadeer.3884@gmail.com  
-- **GitHub**: [github.com/qadeer884](https://github.com/qadeer884)  
+- Advanced AI application development
+- Production RAG and LLM systems
+- AI automation workflows
+- MLOps and CI/CD for AI systems
+- Scalable cloud deployment
+- Advanced Computer Vision
 
 ---
 
-⭐ Feel free to explore my repositories and projects. I’m open to collaboration and new AI/ML opportunities!  
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/qadeer84](https://linkedin.com/in/qadeer84)
+- **Email:** qadeer.3884@gmail.com
+- **GitHub:** [github.com/qadeer884](https://github.com/qadeer884)
+- **Portfolio:** [qadeerahmed884.vercel.app](https://qadeerahmed884.vercel.app/)
+
+---
+
+⭐ Feel free to explore my repositories and projects. I'm open to AI/ML engineering, Generative AI, automation, and software development opportunities.
