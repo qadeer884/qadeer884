@@ -12,7 +12,7 @@ I'm an **AI/ML Engineer** with hands-on experience building and deploying **AI-p
 
 - 🎓 **Education:** BS in Information Technology, University of Chakwal (2020–2024), CGPA: 3.39/4.0
 - 💼 **Current Role:** AI Engineer at **WeWebWizards**, working remotely on AI-powered applications, enterprise software, and automation solutions.
-- 🔭 **Current Focus:** AI engineering, Generative AI, RAG systems, AI automation, full-stack applications, API development, and production deployment.
+- 🔭 **Current Focus:** Agentic AI, Applied AI, Generative AI, RAG systems, AI automation, full-stack applications, and production deployment.
 - 🧠 **Core Interests:** NLP, Large Language Models, Computer Vision, AI-powered workflows, and intelligent business applications.
 - 🚀 **Recent Work:** Enterprise Audit Management System (AMS) and IT Report Automation for MSP environments.
 - 🤝 **Open to:** AI/ML engineering, Generative AI, AI application development, automation, and software engineering opportunities.
