@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Qadeer Ahmed
 
-![Banner Image](./profile-banner.png)
+![Banner Image](./banner.png)
 
 I'm an **AI/ML Engineer** with hands-on experience building and deploying **AI-powered applications, automation solutions, and production-ready systems**. My experience spans **NLP, Computer Vision, Agentic AI, LLMs, RAG, AI automation, full-stack development, API integration, and cloud deployment**.
 
