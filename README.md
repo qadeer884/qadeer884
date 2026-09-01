@@ -236,15 +236,6 @@ I'm an **AI/ML Engineer** with hands-on experience building and deploying **AI-p
 * Cloud Deployment
 * Enterprise SaaS Development
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qadeer884&show_icons=true&theme=radical" alt="Qadeer's GitHub Stats"/>
-</p>
-
----
 
 ## 🌱 Currently Learning
 
